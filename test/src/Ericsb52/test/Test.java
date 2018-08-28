@@ -7,6 +7,7 @@ public class Test {
 		System.out.println("hello world 2");
 		System.out.println("changed in git");
 		System.out.println("changed in IDE");
+		System.out.println("changed in git");
 		
 
 	}
